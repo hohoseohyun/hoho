@@ -1,1 +1,1 @@
-from ktds and ktds2
+from ktds
